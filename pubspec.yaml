@@ -43,6 +43,13 @@ dependencies:
   uuid: ^3.0.7
   provider: ^6.0.5
   atomsbox: ^0.1.0
+  flutter_flip_view: ^1.0.0
+  flip_card: ^0.7.0
+  flutter_card_swiper: ^4.1.3
+  flutter_tindercard: ^0.2.0
+  flutter_swipable: ^1.2.1
+  flutter_swipe_detector: ^2.0.0
+  slide_to_start: ^0.0.4
 
 dev_dependencies:
   flutter_test:
